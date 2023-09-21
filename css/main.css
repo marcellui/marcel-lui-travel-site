@@ -13,15 +13,15 @@
     margin-top: 100px;
 }
 .hero--left__header{
-    width: 80%;
-    font-size: 25px;
+    width: 100%;
+    font-size: 2rem;
     color: #335576;
 }
 .hero--left__item{
     display: flex;
     width: 110%;
     color: #335576;
-    font-size: 12px;
+    font-size: 0.75rem;
     margin-bottom: 20px;
 }
 
